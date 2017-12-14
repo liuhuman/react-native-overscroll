@@ -1,0 +1,24 @@
+{
+  "name": "react-native-overscroll",
+  "version": "1.0.0",
+  "description": "a android scrollView decorator for support bounce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run-android": "cd demo; react-native run-android; cd -",
+    "run-ios": "cd demo; react-native run-ios; cd -"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuhuman/react-native-overscroll.git"
+  },
+  "keywords": [
+    "bounce"
+  ],
+  "author": "liuhuman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuhuman/react-native-overscroll/issues"
+  },
+  "homepage": "https://github.com/liuhuman/react-native-overscroll#readme"
+}
