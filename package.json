@@ -1,24 +1,50 @@
 {
-  "name": "react-native-overscroll",
-  "version": "1.0.0",
-  "description": "a android scrollView decorator for support bounce",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "run-android": "cd demo; react-native run-android; cd -",
-    "run-ios": "cd demo; react-native run-ios; cd -"
+  "_from": "git+https://github.com/liuhuman/react-native-overscroll.git",
+  "_id": "react-native-overscroll@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-Th5OhmxcrZYz/4Ud2ru6DUukIGY=",
+  "_location": "/react-native-overscroll",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-overscroll@git+https://github.com/liuhuman/react-native-overscroll.git",
+    "name": "react-native-overscroll",
+    "escapedName": "react-native-overscroll",
+    "rawSpec": "git+https://github.com/liuhuman/react-native-overscroll.git",
+    "saveSpec": "git+https://github.com/liuhuman/react-native-overscroll.git",
+    "fetchSpec": "https://github.com/liuhuman/react-native-overscroll.git",
+    "gitCommittish": "master"
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/liuhuman/react-native-overscroll.git#2f2a4632888c755e0f777c151369ce345b3a7857",
+  "_spec": "react-native-overscroll@git+https://github.com/liuhuman/react-native-overscroll.git",
+  "_where": "/Users/eagleliu/project/personal/rndemo/react-native-overscroll/demo",
+  "author": {
+    "name": "liuhuman"
+  },
+  "bugs": {
+    "url": "https://github.com/liuhuman/react-native-overscroll/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "a android scrollView decorator for support bounce",
+  "homepage": "https://github.com/liuhuman/react-native-overscroll#readme",
+  "keywords": [
+    "bounce"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-overscroll",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/liuhuman/react-native-overscroll.git"
   },
-  "keywords": [
-    "bounce"
-  ],
-  "author": "liuhuman",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/liuhuman/react-native-overscroll/issues"
+  "scripts": {
+    "run-android": "cd demo; react-native run-android; cd -",
+    "run-ios": "cd demo; react-native run-ios; cd -",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/liuhuman/react-native-overscroll#readme"
+  "version": "1.0.0"
 }

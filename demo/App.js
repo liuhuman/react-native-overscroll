@@ -21,10 +21,10 @@ const instructions = Platform.select({
     'Shake or press menu button for dev menu',
 });
 
-export default class App extends Component<{}> {
+export default class App extends Component {
   render() {
     return (
-      <OverScroll style={styles.container}>
+      <OverScroll bounce style={styles.container}>
         <ScrollView>
           <Text style={styles.welcome}>
             Welcome to React Native!
